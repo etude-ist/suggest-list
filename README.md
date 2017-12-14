@@ -1,4 +1,4 @@
-Just a simple recommendation system to experiment with ((()))) notation.
+Just a simple recommendation system to experiment with ((())) notation.
 
 Copyright © 2017 Michał Tyburski (etude-ist)
 
