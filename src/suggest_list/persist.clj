@@ -25,4 +25,4 @@
 
 (defn write-index-book
   [csv-file-path object-file-path]
-  (write-index-object csv-file-path object-file-path index-user))
+  (write-index-object csv-file-path object-file-path index-book))
